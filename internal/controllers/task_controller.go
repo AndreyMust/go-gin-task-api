@@ -2,7 +2,6 @@
 
 import (
 	"net/http"
-	"fmt"
 
 	"github.com/gin-gonic/gin"
 	"go-gin-task-api/internal/models"
